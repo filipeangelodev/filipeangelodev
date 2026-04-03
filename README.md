@@ -1,4 +1,9 @@
 ## Hi there 👋
+## Sou o Filipe Angelo, um Analista de Sistema que mora no Rio de Janeiro.
+## Trabalho principalmente com Desenvolvimento Web Full Stack: Front-end, Back-end, Banco de Dados, SEO e Versionamento 
+## Também uso Adobe Photoshop e Figma para interface, Miro para protótipos e Trello para organizar minhas tarefas.
+
+## ________________________________________________________________________________________________________________
 
 <!--
 **filipeangelodev/filipeangelodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +20,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Sou o Filipe Angelo, um Analista de Sistema que mora no Rio de Janeiro.
-
-## Trabalho principalmente com Desenvolvimento Web Full Stack: Front-end, Back-end, Banco de Dados, SEO e Versionamento 
-
-## Também uso Adobe Photoshop e Figma para interface, Miro para protótipos e Trello para organizar minhas tarefas.
-
-## ___
