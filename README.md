@@ -29,7 +29,7 @@ Sou um profissional dedicado, focado e esfor√ßado, com mais de 7 anos de experi√
 
 <div>
   <a href="https://www.linkedin.com/in/filipeangelo-dev/" target="_blank" rel="noopener nofollow" aria-label="LinkedIn - filipeangelodev">
-    <img width="40" height="50" alr="filipeangelodev-linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> 
+    <img width="30" height="40" alr="filipeangelodev-linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
 </div>
 
