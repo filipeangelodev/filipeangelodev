@@ -25,6 +25,14 @@ Sou um profissional dedicado, focado e esforçado, com mais de 7 anos de experi�
   <img width="40" height="50" alt="filipeangelodev-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 </div>
 
+## Contato
+
+<div>
+  <a href="https://www.linkedin.com/in/filipeangelo-dev/" target="_blank" rel="noopener nofollow" aria-label="LinkedIn - filipeangelodev">
+    <img width="40" height="50" alr="filipeangelodev-linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> 
+  </a>
+</div>
+
 <!--
 **filipeangelodev/filipeangelodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
