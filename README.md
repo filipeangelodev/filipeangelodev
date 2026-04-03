@@ -10,7 +10,7 @@ Sou um profissional dedicado, focado e esfor√ßado, com mais de 7 anos de experi√
 * HTML5, CSS3, SASS/SCSS, JavaScript, jQuery
 * PHP8
 * MySQL/MariaDB
-* Wordpress
+* Wordpress (Temas e Plugins personalizados)
 * GIT
 
 <div>
@@ -24,6 +24,10 @@ Sou um profissional dedicado, focado e esfor√ßado, com mais de 7 anos de experi√
   <img width="40" height="50" alt="filipeangelodev-wodrpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
   <img width="40" height="50" alt="filipeangelodev-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 </div>
+
+## Marketing Digital e CRM
+* RD Station
+* Exact Spotter
 
 ## Contato
 
