@@ -1,4 +1,17 @@
-## Hi there 👋
+## Olá! 👋
+
+Sou o Filipe Angelo, um Analista de Sistema que mora no Rio de Janeiro.
+
+Trabalho principalmente com Desenvolvimento Web Full Stack
+
+Sou um profissional dedicado, focado e esforçado, com mais de 7 anos de experiência no mercado de trabalho, especialmente na área de desenvolvimento web.
+
+## Ferramentas e Tecnologias
+* HTML5, CSS3, SASS/SCSS, JavaScript, jQuery
+* PHP8
+* MySQL/MariaDB
+* Wordpress
+* GIT
 
 
 <!--
