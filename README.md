@@ -1,9 +1,15 @@
 ## Hi there 👋
 ## Sou o Filipe Angelo, um Analista de Sistema que mora no Rio de Janeiro.
-## Trabalho principalmente com Desenvolvimento Web Full Stack: Front-end, Back-end, Banco de Dados, SEO e Versionamento 
-## Também uso Adobe Photoshop e Figma para interface, Miro para protótipos e Trello para organizar minhas tarefas.
+## Trabalho principalmente com Desenvolvimento Web Full Stack
+## Sou um profissional dedicado, focado e esforçado, com mais de 7 anos de experiência no mercado de trabalho, especialmente na área de desenvolvimento web
 
-## ________________________________________________________________________________________________________________
+## Ferramentas e Tecnologias
+## * Front-end: HTML5, CSS3, SASS/SCSS, JavaScript, jQuery
+## * Back-end: PHP8
+## * Banco de Dados: MySQL/MariaDB
+## * CMS: Wordpress
+## * Design Gráfico: Adobe Photoshop e Figma
+## * Versionamento: Git
 
 <!--
 **filipeangelodev/filipeangelodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
