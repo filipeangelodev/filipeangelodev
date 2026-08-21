@@ -12,6 +12,7 @@ Sou um profissional dedicado, focado e comprometido com aprendizado contínuo, n
 * PHP8
 * MySQL/MariaDB
 * Wordpress (Temas e Plugins personalizados)
+* Docker
 * GIT
 
 <div>
@@ -20,11 +21,12 @@ Sou um profissional dedicado, focado e comprometido com aprendizado contínuo, n
   <img width="40" height="50" alt="filipeangelodev-sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
   <img width="40" height="50" alt="filipeangelodev-javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width="40" height="50" alt="filipeangelodev-jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
+  <img width="40" height="50" alt="filipeangelodev-react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img width="40" height="50" alt="filipeangelodev-php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img width="40" height="50" alt="filipeangelodev-mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img width="40" height="50" alt="filipeangelodev-wodrpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
   <img width="40" height="50" alt="filipeangelodev-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-  <img width="40" height="50" alt="filipeangelodev-react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+  <img width="40" height="50" alt="filipeangelodev-docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 </div>
 
 ## Marketing Digital e CRM
