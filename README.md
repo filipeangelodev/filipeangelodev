@@ -7,7 +7,7 @@ Ao longo da minha trajetória profissional, venho desenvolvendo projetos e solu�
 Sou um profissional dedicado, focado e comprometido com aprendizado contínuo, novos desafios e a criação de soluções que gerem valor.
 
 ## Ferramentas e Tecnologias
-* **Frontend Avançado:** React, Javascript (ES6+), Bootstrap, HTML5, CSS3, SASS/SCSS, JavaScript, jQuery
+* **Frontend Avançado:** React, Javascript (ES6+), Bootstrap, HTML5, CSS3, SASS/SCSS, jQuery
 * **Backend e Banco de dados:** PHP8 e MySQL/MariaDB
 * **Mobile:** React Native
 * **Ecossistema WordPress:** Desenvolvimento de Plugins e Temas Customizados.
