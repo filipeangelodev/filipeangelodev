@@ -1,4 +1,4 @@
-## 👋 Olá!
+## 👋 Olá, eu sou o Filipe Angelo!
 
 Sou formado em **Sistemas de Informação** e atuo na área de **Desenvolvimento Web**, com foco em soluções **Full Stack**.
 
