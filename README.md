@@ -29,9 +29,9 @@ Sou um profissional dedicado, focado e comprometido com aprendizado contínuo, n
   <img width="40" height="50" alt="filipeangelodev-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 </div>
 
-## Marketing Digital e CRM
-* RD Station
-* Exact Spotter
+## Ferramentas de MarTech & Vendas
+* **Marketing & Automação (MarTech):** RD Station
+* **Vendas & CRM (SalesTech):**  Exact Spotter
 
 ## Contato
 
