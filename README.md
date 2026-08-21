@@ -8,7 +8,7 @@ Sou um profissional dedicado, focado e comprometido com aprendizado contínuo, n
 
 ## Ferramentas e Tecnologias
 * **Frontend Avançado:** React, Javascript (ES6+), Bootstrap, HTML5, CSS3, SASS/SCSS, jQuery
-* **Backend e Banco de dados:** PHP8 e MySQL/MariaDB
+* **Backend e Banco de dados:** PHP e MySQL/MariaDB
 * **Mobile:** React Native
 * **Ecossistema WordPress:** Desenvolvimento de Plugins e Temas Customizados.
 * **Ferramental & Infra:** Docker, Bitbucket, Git/GitHub
