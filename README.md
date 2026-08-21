@@ -1,8 +1,4 @@
-## 👋 Olá, eu sou o Filipe Angelo!
-
-Sou o Filipe Angelo, um Analista de Sistema que mora no Rio de Janeiro.
-
-Trabalho principalmente com Desenvolvimento Web Full Stack
+## 👋 Olá!
 
 Sou formado em **Sistemas de Informação** e atuo na área de **Desenvolvimento Web**, com foco em soluções **Full Stack**.
 
