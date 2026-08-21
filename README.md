@@ -7,25 +7,25 @@ Ao longo da minha trajetória profissional, venho desenvolvendo projetos e solu�
 Sou um profissional dedicado, focado e comprometido com aprendizado contínuo, novos desafios e a criação de soluções que gerem valor.
 
 ## Ferramentas e Tecnologias
-* HTML5, CSS3, SASS/SCSS, JavaScript, jQuery, React
-* React Native
-* PHP8
-* MySQL/MariaDB
-* Wordpress (Temas e Plugins personalizados)
-* Docker
-* GIT
+* **Frontend Avançado:** React, Javascript (ES6+), Bootstrap, HTML5, CSS3, SASS/SCSS, JavaScript, jQuery
+* **Backend e Banco de dados:** PHP8 e MySQL/MariaDB
+* **Mobile:** React Native
+* **Ecossistema WordPress:** Desenvolvimento de Plugins e Temas Customizados.
+* **Ferramental & Infra:** Docker, Bitbucket, Git/GitHub
 
 <div>
   <img width="40" height="50" alt="filipeangelodev-html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   <img width="40" height="50" alt="filipeangelodev-css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
   <img width="40" height="50" alt="filipeangelodev-sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
   <img width="40" height="50" alt="filipeangelodev-javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" height="50" alt="filipeangelodev-bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img width="40" height="50" alt="filipeangelodev-jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
   <img width="40" height="50" alt="filipeangelodev-react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img width="40" height="50" alt="filipeangelodev-php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img width="40" height="50" alt="filipeangelodev-mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img width="40" height="50" alt="filipeangelodev-wodrpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
   <img width="40" height="50" alt="filipeangelodev-docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img width="40" height="50" alt="filipeangelodev-bitbucket" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" />
   <img width="40" height="50" alt="filipeangelodev-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 </div>
 
