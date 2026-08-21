@@ -25,8 +25,8 @@ Sou um profissional dedicado, focado e comprometido com aprendizado contínuo, n
   <img width="40" height="50" alt="filipeangelodev-php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img width="40" height="50" alt="filipeangelodev-mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img width="40" height="50" alt="filipeangelodev-wodrpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
-  <img width="40" height="50" alt="filipeangelodev-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
   <img width="40" height="50" alt="filipeangelodev-docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img width="40" height="50" alt="filipeangelodev-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 </div>
 
 ## Marketing Digital e CRM
