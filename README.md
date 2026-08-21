@@ -1,13 +1,18 @@
-## Olá! 👋
+## 👋 Olá, eu sou o Filipe Angelo!
 
 Sou o Filipe Angelo, um Analista de Sistema que mora no Rio de Janeiro.
 
 Trabalho principalmente com Desenvolvimento Web Full Stack
 
-Sou um profissional dedicado, focado e esforçado, com mais de 7 anos de experiência no mercado de trabalho, especialmente na área de desenvolvimento web.
+Sou formado em **Sistemas de Informação** e atuo na área de **Desenvolvimento Web**, com foco em soluções **Full Stack**.
+
+Ao longo da minha trajetória profissional, venho desenvolvendo projetos e soluções digitais, sempre buscando unir tecnologia, qualidade e eficiência.
+
+Sou um profissional dedicado, focado e comprometido com aprendizado contínuo, novos desafios e a criação de soluções que gerem valor.
 
 ## Ferramentas e Tecnologias
-* HTML5, CSS3, SASS/SCSS, JavaScript, jQuery
+* HTML5, CSS3, SASS/SCSS, JavaScript, jQuery, React
+* React Native
 * PHP8
 * MySQL/MariaDB
 * Wordpress (Temas e Plugins personalizados)
@@ -23,6 +28,7 @@ Sou um profissional dedicado, focado e esforçado, com mais de 7 anos de experi�
   <img width="40" height="50" alt="filipeangelodev-mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img width="40" height="50" alt="filipeangelodev-wodrpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
   <img width="40" height="50" alt="filipeangelodev-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+  <img width="40" height="50" alt="filipeangelodev-react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 </div>
 
 ## Marketing Digital e CRM
